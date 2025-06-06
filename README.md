@@ -8,7 +8,7 @@
 
 ---
 
-**[`Desenvolvedor`](https://www.linkedin.com/in/junindosite)**
+**[`Desenvolvedor Full-stack`](https://www.linkedin.com/in/junindosite)**
 
 <p align="center" style="color:#8000FF;">
 - 🎓 Estudante de Engenharia de Software (3º semestre) na Unicesumar<br/>
