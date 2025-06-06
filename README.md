@@ -8,20 +8,23 @@
 
 ---
 
-**[`Desenvolvedor FullStack`](https://www.linkedin.com/in/junindosite)**
+**[`Desenvolvedor`](https://www.linkedin.com/in/junindosite)**
 
 <p align="center" style="color:#8000FF;">
 - 🎓 Estudante de Engenharia de Software (3º semestre) na Unicesumar<br/>
-- 💻 Apaixonado por programação e desenvolvimento de sistemas<br/>
-- 🚀 Sempre em busca de aprender mais e criar projetos úteis
+- 💻 Apaixonado por tecnologia e resolução de problemas<br/>
+- 🚀 Sempre em busca de aprender mais e desenvolver novas habilidades
 </p>
 
 ---
 
-## 🤖 Tecnologias
+## 🤖 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,vue,bootstrap,html,css,git,github" height="35" style="margin:0 8px" />
+  <img src="https://skillicons.dev/icons?i=c,js,vue,bootstrap,html,css,git,github,vscode,figma" height="35" style="margin:0 8px" />
+</p>
+<p align="center" style="color:#8000FF;">
+    (Lista de algumas tecnologias e ferramentas que uso)
 </p>
 
 ---
