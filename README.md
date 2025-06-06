@@ -28,7 +28,6 @@
 ### 🔹 Frameworks e Bibliotecas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,bootstrap" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg" height="40" alt="Phaser logo" style="vertical-align:middle;" />
 </p>
 
 ### 🔹 Desenvolvimento Web
