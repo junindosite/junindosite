@@ -29,10 +29,6 @@
 
 ---
 
-<div align="center">
-  <h3 style="color:#8000FF;">* GitHub Stats *</h3>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=junindosite&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=8000FF&text_color=DDD&border_radius=6&border_color=440066&icon_color=8000FF&theme=jolly" alt="GitHub stats" width="400"/>
-
   <br/><br/>
 
   <a href="https://github.com/junindosite/github-readme-stats">
