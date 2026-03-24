@@ -11,7 +11,7 @@
 **[`Desenvolvedor Full-stack`](https://www.linkedin.com/in/junindosite)**
 
 <p align="center" style="color:#8000FF;">
-- 🎓 Estudante de Engenharia de Software (3º semestre) na Unicesumar<br/>
+- 🎓 Estudante de Engenharia de Software (5º semestre) na Unicesumar<br/>
 - 💻 Apaixonado por tecnologia e resolução de problemas<br/>
 - 🚀 Sempre em busca de aprender mais e desenvolver novas habilidades
 </p>
